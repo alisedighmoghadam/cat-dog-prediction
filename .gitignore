@@ -1,0 +1,5 @@
+.venv
+
+*.jpg
+
+cat_dog_cnn.h5
